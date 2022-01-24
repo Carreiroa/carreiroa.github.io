@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "testFile"
 permalink: https://carreiroa.github.io/testFile/
 
 # This is a test file
