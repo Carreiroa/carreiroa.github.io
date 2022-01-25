@@ -3,7 +3,7 @@ layout: page
 title: "While Loops"
 permalink: https://Carreiroa.github.io/WhileLoops/
 --->
-### [Home](/index)
+### [Home](/index) | [Java Index](/JavaIndex)
 
 ---
 

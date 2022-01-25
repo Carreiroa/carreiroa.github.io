@@ -9,4 +9,5 @@ permalink: https://Carreiroa.github.io/JavaIndex/
 ## Java Index
 ---
 
-- [While Loops](/WhileLoops): Repetitive Flow
+- [While Loops](/WhileLoops): Repetitive flow
+- [Math.random()](/MathRandom): Generating random using the Math Class.
