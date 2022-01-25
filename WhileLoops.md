@@ -1,6 +1,6 @@
 <!---
 layout: page
-title: "testFile"
+title: "While Loops"
 permalink: https://Carreiroa.github.io/WhileLoops/
 --->
 #### [Home](/index)
