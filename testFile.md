@@ -8,3 +8,7 @@ permalink: https://Carreiroa.github.io/testFile/
 ## Does this take the theme placed in my rep?
 
 Need to get rid of some text.
+
+[README](/README.md)
+
+
