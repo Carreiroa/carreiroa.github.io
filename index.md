@@ -1,4 +1,4 @@
-#### [Java](/JavaIndex.md)
+### [Java](/JavaIndex)
 
 ---
 ## Welcome to Class with Carreiro
