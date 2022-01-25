@@ -8,13 +8,5 @@ permalink: https://Carreiroa.github.io/JavaIndex/
 ---
 ## Java Index
 ---
-Link|Description
-:-------------------------|:---
-[WhileLoops](/WhileLoops)|Repetitive Flow
----
 
----
-
-[WhileLoops](/WhileLoops): Repetitive Flow
-[WhileLoops](/WhileLoops): Repetitive Flow
----
+- [WhileLoops](/WhileLoops): Repetitive Flow
