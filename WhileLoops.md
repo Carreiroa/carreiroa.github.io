@@ -10,7 +10,7 @@ permalink: https://Carreiroa.github.io/WhileLoops/
 ## Java While Loops
 
 While loops are a type of repetitive flow that test a boolean expression to determine if the loop is to be repeated. Just as its name suggests you perform a loop "While" some condition is true. In Java, the syntax for a while loop is as follow.
-&nbsp;
+&nbsp; <br>
 &nbsp;
 ### Syntax
 ```java

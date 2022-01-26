@@ -16,7 +16,7 @@ Remember that all input via the input stream is taken in as characters. So if th
 Luckily, the Scanner has numerous methods and we can use one of them to help us out. The ```.hasNextInt()``` behaves similarly to ```.nextInt()``` but instead of trying to return an integer value, it returns a ```true``` or ```false``` depending if the scanner object is holding an integer value before the next token. It's important to note here, if you haven't caught it already, that ```.hasNextInt()``` returns a boolean leaving the input in the scanner and ```.nextInt()``` returns an integer moving the scanner's pointer to the next token. This means that after returning the value from the scanner, we can consider that input no longer in the scanner object.
 
 Since ```.hasNextInt()``` returns a boolean value we can use it in condition statements like those in an ```if``` or in a ```while```. 
-&nbsp;
+&nbsp; <br>
 &nbsp;
 ### Assure Integer Input
 ```java
