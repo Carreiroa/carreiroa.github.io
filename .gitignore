@@ -6,3 +6,5 @@
 .obsidian/hotkeys.json
 .obsidian/themes/Atom.css
 .obsidian/workspace
+.obsidian/templates.json
+templates/PageTemplate.md
