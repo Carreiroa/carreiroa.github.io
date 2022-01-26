@@ -7,7 +7,7 @@ permalink: https://Carreiroa.github.io/ScannerAssureInput/
 
 ---
 
-## Scanner Assure Input
+## Scanner: Assure Input
 
 One of the more challenging things to a new programmer is handling user input so that your program doesn't crash. It's hard enough trying to make sure that your program and its flow is in order, let alone worry about how your user will interact with your program in terms of their input. There are multiple ways around this issue in Java and one such way is to program our own little routine to ensure that the user's input doesn't crash.
 
