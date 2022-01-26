@@ -33,11 +33,11 @@ while (!userInput.hasNextInt()){
 x = userInput.nextInt();
 ```
 
-#### Code Breakdown
+### Code Breakdown
 In the above code we place the ```.hasNextInt()``` as a condition. At this point, if there is no input in the scanner because none has been entered or because values in it have all been returned, it will wait for input on that line and once there is input it will return either ```true``` or ```false``` depending on the input *type*. Regardless of the result of the boolean expression, the scanner object still retains the user's input waiting for it to be returned with an appropriate method like ```.next()``` or ```.nextInt()```.
 
 If that condition tests false, meaning we do not have an integer in the scanner, we negate the result with the ```!``` so that we enter the while loop. At this point, other than *"keeping the user in the loop"* with some feedback (bad Dad Joke!), we will need to move the pointer in the scanner since we don't want the user's input. To do that, we simply call the ```.next()``` method without assigning its return to a variable. At this point we are ready to test a new user input at the top of the loop.
 
 
-#### Challenge
+### Challenge
 Test the code out. Can you wrap the code above in a do while loop so that it also assures the integer falls within a certain range?
