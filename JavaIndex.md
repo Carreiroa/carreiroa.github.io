@@ -11,4 +11,5 @@ permalink: https://Carreiroa.github.io/JavaIndex/
 
 - [While Loops](/WhileLoops): Repetitive flow
 - [Math.random()](/MathRandom): Generating random using the Math Class.
-- [Scanner Assure Input](ScannerAssureInput): Prevent user's input from crashing your program.
+- Scanner
+	- [Assure Input](ScannerAssureInput): Prevent user's input from crashing your program.
