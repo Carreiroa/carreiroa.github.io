@@ -1,4 +1,4 @@
-### [Java](/JavaIndex)
+### [Java](/JavaIndex) | [Scratch](/ScratchIndex.md)
 
 ---
 ## Welcome to Carreiro's GitHub Pages Classroom Repository

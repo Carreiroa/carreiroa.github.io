@@ -3,7 +3,7 @@ layout: page
 title: "Java Index"
 permalink: https://Carreiroa.github.io/JavaIndex/
 --->
-### [Home](/index.md)
+### [Home](/index.md) | [Scratch](/ScratchIndex.md)
 
 ---
 ## Java Index
