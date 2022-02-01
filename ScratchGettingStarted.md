@@ -16,7 +16,7 @@ I'm going to guess that if you're here, you already have a Scratch account and a
 ![Create](/sgsImage01.gif)
 
 ---
-### The Online Editor
+## The Online Editor
 ![Editor](/sgsImage02.gif)
 
 Here we have the Scratch online editor and its different areas.
