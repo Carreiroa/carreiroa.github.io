@@ -15,6 +15,7 @@ I'm going to guess that if you're here, you already have a Scratch account and a
 
 ![Create](/sgsImage01.gif)
 
+---
 ### The Online Editor
 ![Editor](/sgsImage02.gif)
 
@@ -37,7 +38,7 @@ Here we have the Scratch online editor and its different areas.
 4. This is your sprite pallet. You can rename, resize, locate, hide, show, and point your sprite in a specific direction. You can also add more sprites to this pallet by clicking on the **Choose a Sprite** button at the bottom right of the pallet. Hovering over this button gives you a whole host of options for adding something that you will like.
 
 5. The stage pallet is where you can select your stage for editing or create a new one. Much like the **Choose a Sprite** button the **Choose a Backdrop** button provides you with the same options.
-
+---
 ## The Menu
 ![Menu](/sgsImage03.gif)
 
