@@ -53,4 +53,4 @@ The project page button brings you and your guests to your programs homepage of 
 
 On the far right you have a file folder that you can select to see all of your projects and your account profile where you can make any user changes that you need to.
 
-## Happy Coding
+## Happy Coding 😎
