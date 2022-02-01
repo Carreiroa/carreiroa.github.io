@@ -1,3 +1,6 @@
+plugins:
+  - jemoji
+  
 theme: jekyll-theme-hacker
 title: CLASS WITH CARREIRO
 description: Classroom Content for ICS2O, ICS3U and ICS4U
