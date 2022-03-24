@@ -9,6 +9,7 @@ permalink: https://Carreiroa.github.io/JavaIndex/
 ## Java Index
 ---
 
+- [Java Program Shell](/ProgramShell): Brief introduction and setup of a basic program shell.
 - [While Loops](/WhileLoops): Repetitive flow
 - [Math.random()](/MathRandom): Generating random using the Math Class.
 - Scanner
