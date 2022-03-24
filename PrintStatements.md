@@ -64,4 +64,4 @@ When you examine the statement you can see that I have declared three variables 
 You will also notice that when dealing with a floating point, it is possible to determine how many decimal places are displayed by indicating a precision with a .1 to indicate once decimal place.
 It is also possible to add, within the quotation marks, \n to return a new line or \t to tab.
 
-# Happy Coding :cool
+# Happy Coding :sunglasses: :computer:
