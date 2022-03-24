@@ -40,7 +40,7 @@ The println() outputs the characters contained within the quotation marks. This 
 Hello World.
 I love Java!
 
-## System.out.printf ()
+### System.out.printf ()
 
 The printf () is the more complex, but most versatile of the three print statements. Called the print format function, it allows one to format their output in a specific fashion using various place holders. Its syntax is simple but takes a little getting use to.
 
