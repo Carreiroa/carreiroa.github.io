@@ -29,7 +29,7 @@ Here we have the Scratch online editor and its different areas.
 
     * Sounds: Here you can select a sound associated with your Sprite or even create your own.
 
-      **Note**: I would be remiss if I didn't mention that the Costume tab will change into Backdrops if you click off of the Sprite and select the Stage   (5). Under that tab you can create different backdrops or scenes for you program.
+     * **Note**: I would be remiss if I didn't mention that the Costume tab will change into Backdrops if you click off of the Sprite and select the Stage   (5). Under that tab you can create different backdrops or scenes for you program.
 
 2. This is the script editor where we will place our code for our selected sprite or backdrop. To know which sprite or backdrop you are currently coding for, you will notice a slightly opaque thumbnail of the object in the top right corner of the script editor.
 
