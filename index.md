@@ -1,4 +1,4 @@
-### [Java](/JavaIndex.md) | [Scratch](/ScratchIndex.md) | [Classroom Notes] (/ClassroomNotes.md)
+### [Java](/JavaIndex.md) | [Scratch](/ScratchIndex.md) | [Classroom Notes](/ClassroomNotes.md)
 
 ---
 ## Welcome to Carreiro's GitHub Pages Classroom Repository
