@@ -5,8 +5,12 @@ title: "Python String Functions"
 permalink: https://Carreiroa.github.io/PyStringFn/
 --->
 
+### [Home](/index.md) | [Scratch](/ScratchIndex.md) | [Java](/JavaIndex.md)
 
+
+---
 ### Python String Methods Cheat Sheet
+---
 
 #### Basic Information
 - **`len(s)`**: Returns the length of string `s`.
