@@ -4,7 +4,7 @@ title: "PyGame Zero Citrix Setup"
 permalink: https://Carreiroa.github.io/PyStringFn/
 --->
 
-### [Home](/index.md) | [Scratch](/ScratchIndex.md) | [Java](/JavaIndex.md) | [Python] (/PythonIndex.md)
+### [Home](/index.md) | [Scratch](/ScratchIndex.md) | [Java](/JavaIndex.md) | [Python](/PythonIndex.md)
 
 
 ---
