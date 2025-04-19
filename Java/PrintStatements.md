@@ -3,7 +3,8 @@ layout: page
 title: "Print Statements"
 permalink: https://Carreiroa.github.io/PrintStatements/
 --->
-### [Home](/index) | [Java Index](/JavaIndex)
+
+### [Home](/index) | [Java Index](./JavaIndex)
 
 ---
 
@@ -24,7 +25,7 @@ System.out.print ("I love Java!");
 
 The print() outputs the characters contained within the quotation marks. This statement leaves the cursor immediately after the last character it outputs.
 
-**Output**: 
+**Output**:
 Hello World.I love Java!
 
 ### System.out.println ()
@@ -36,7 +37,7 @@ System.out.println ("I love Java!");
 
 The println() outputs the characters contained within the quotation marks. This statement returns a new line immediately after the last character it outputs.
 
-**Output**: 
+**Output**:
 Hello World.
 I love Java!
 
@@ -66,4 +67,4 @@ When you examine the statement you can see that I have declared three variables 
 You will also notice that when dealing with a floating point, it is possible to determine how many decimal places are displayed by indicating a precision with a .1 to indicate once decimal place.
 It is also possible to add, within the quotation marks, \n to return a new line or \t to tab.
 
-# Happy Coding :sunglasses: :computer:
+# Happy Coding 😎 💻

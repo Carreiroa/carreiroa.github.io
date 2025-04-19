@@ -3,7 +3,8 @@ layout: page
 title: "Program Shell"
 permalink: https://Carreiroa.github.io/ProgramShell/
 --->
-### [Home](/index) | [Java Index](/JavaIndex)
+
+### [Home](/index) | [Java Index](./JavaIndex)
 
 ---
 
@@ -32,10 +33,11 @@ class MyFirstClass {
 	}
 }
 ```
+
 We have now added a main method to our class. Just like our class, it too has an open and closing curly brace that indicate everything that belongs to that method. It's within these braces that we will write our first code.
 You'll notice that our main method has a few modifiers that are important to java and all main methods must be written this way. We will worry about what these modifiers mean a little later.
 
-**Note:** Java is case sensitive. That means, to Java, public static is not the same as Public Static. 
+**Note:** Java is case sensitive. That means, to Java, public static is not the same as Public Static.
 
 And that's it. You have successfully written the shell to your first Java program. It doesn't do a thing, but it is still a program. We'll add some content after we do our first save.
 
@@ -52,6 +54,7 @@ class MyFirstClass {
 	}
 }
 ```
-Congratulations, you now have written your very first Java program. 
+
+Congratulations, you now have written your very first Java program.
 
 Happy Coding
