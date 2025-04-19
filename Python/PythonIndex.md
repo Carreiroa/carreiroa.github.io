@@ -12,5 +12,5 @@ permalink: https://Carreiroa.github.io/PythonIndex/
 
 ---
 
-- [Setup Pygame Zero on VScode on Citrix](/PygzCitrixSetup.md): Instructions on getting your Citrix version of VScode setup to run Py Game Zero programs.
-- [Python String Functions](/PyStringFn.md): String function cheat sheet.
+- [Setup Pygame Zero on VScode on Citrix](./PygzCitrixSetup.md): Instructions on getting your Citrix version of VScode setup to run Py Game Zero programs.
+- [Python String Functions](./PyStringFn.md): String function cheat sheet.
