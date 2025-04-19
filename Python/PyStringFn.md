@@ -1,24 +1,26 @@
-
 <!---
 layout: page
 title: "Python String Functions"
 permalink: https://Carreiroa.github.io/PyStringFn/
 --->
 
-### [Home](/index.md) | [Scratch](/ScratchIndex.md) | [Java](/JavaIndex.md)
-
+### [Home](/index.md) | [Scratch](/Scratch/ScratchIndex.md) | [Java](/Java/JavaIndex.md)
 
 ---
+
 ### Python String Methods Cheat Sheet
+
 ---
 
 #### Basic Information
+
 - **`len(s)`**: Returns the length of string `s`.
   ```python
   len("hello")  # Output: 5
   ```
 
 #### Case Conversion
+
 - **`s.lower()`**: Converts all characters in `s` to lowercase.
   ```python
   "Hello".lower()  # Output: "hello"
@@ -37,6 +39,7 @@ permalink: https://Carreiroa.github.io/PyStringFn/
   ```
 
 #### Searching and Checking
+
 - **`s.find(sub)`**: Returns the index of the first occurrence of `sub` in `s` (or `-1` if not found).
   ```python
   "hello".find("e")  # Output: 1
@@ -55,6 +58,7 @@ permalink: https://Carreiroa.github.io/PyStringFn/
   ```
 
 #### Modifying Strings
+
 - **`s.strip()`**: Removes whitespace from both ends of `s`.
   ```python
   " hello ".strip()  # Output: "hello"
@@ -73,6 +77,7 @@ permalink: https://Carreiroa.github.io/PyStringFn/
   ```
 
 #### Other Useful Methods
+
 - **`s.isalpha()`**: Checks if all characters in `s` are alphabetic.
   ```python
   "hello".isalpha()  # Output: True
@@ -89,4 +94,3 @@ permalink: https://Carreiroa.github.io/PyStringFn/
   ```python
   "Hello".swapcase()  # Output: "hELLO"
   ```
-
