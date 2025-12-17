@@ -1,11 +1,11 @@
-<!---
+---
 layout: page
 title: "Python String Functions"
-permalink: https://Carreiroa.github.io/Python/Meteor_Game/Pgzero_Alien_Metor_Levels/
---->
+permalink: /Python/Meteor_Game/Pgzero_Alien_Metor_Levels/
 ---
+
 # Alien Meteor Game
----
+
 ### Adding levels to your game
 
 It's fun floating around in space with your alien, collecting gems and dodging meteors, but it can get boring after a while. What good is a game if it doesn't have levels. A challenging game that gets harder as it goes on is a much better game! So let's level up our game.
