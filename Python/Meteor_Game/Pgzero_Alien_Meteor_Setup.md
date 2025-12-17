@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Meteor Setup"
-permalink: https://Carreiroa.github.io/Python/Meteor_Game/Pgzero_Alien_Metor_Setup/
 --
 
 
