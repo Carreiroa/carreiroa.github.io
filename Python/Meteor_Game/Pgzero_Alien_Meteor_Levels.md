@@ -1,7 +1,3 @@
----
-layout: page
-title: "Meteor Setup"
----
 
 # Alien Meteor Game
 
