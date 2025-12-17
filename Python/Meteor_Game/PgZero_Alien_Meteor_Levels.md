@@ -1,3 +1,9 @@
+<!---
+layout: page
+title: "Python String Functions"
+permalink: https://Carreiroa.github.io/Python/Meteor_Game/PgZero_Alien_Metor_Levels/
+--->
+
 # Alien Meteor Game
 ### Adding levels to your game
 
