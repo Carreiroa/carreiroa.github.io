@@ -13,7 +13,7 @@ To get started, before you open VS Code or your editor of choice, and create a f
 ### Step 2
 In the link provided below, use your web browser to download all the images in this resource to your images folder you just created.
 
-[Download Images](/Python/Meteor_Game/images)
+[Download Images](./images)
 
 ### Step 3
 Open up vscode and from the `File` menu, select `Open Folder` and open the `Alien_Meteor_Game` folder. Your folder and its content will appear in the explorer on the left in your editor.
