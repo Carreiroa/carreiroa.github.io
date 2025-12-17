@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Python String Functions"
+title: "Meteor Setup"
 permalink: /Python/Meteor_Game/Pgzero_Alien_Metor_Setup/
 --
 
