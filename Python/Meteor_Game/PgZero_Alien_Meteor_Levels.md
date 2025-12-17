@@ -1,8 +1,4 @@
-<!---
-layout: page
-title: "Python String Functions"
-permalink: https://Carreiroa.github.io/PyStringFn/
---->
+
 
 # Alien Meteor Game
 ### Adding levels to your game
