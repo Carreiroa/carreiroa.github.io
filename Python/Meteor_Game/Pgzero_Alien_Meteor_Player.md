@@ -1,4 +1,6 @@
+---
 # Alien and Meteor Game
+---
 ### Adding a player and game metrics
 
 # Step 1
