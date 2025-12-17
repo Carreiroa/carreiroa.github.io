@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Python String Functions"
-permalink: /Python/Meteor_Game/Pgzero_Alien_Metor_Levels/
 ---
 
 # Alien Meteor Game
