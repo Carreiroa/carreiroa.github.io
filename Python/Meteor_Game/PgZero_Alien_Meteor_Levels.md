@@ -1,7 +1,7 @@
 <!---
 layout: page
 title: "Python String Functions"
-permalink: https://Carreiroa.github.io/Python/Meteor_Game/PgZero_Alien_Metor_Levels/
+permalink: https://Carreiroa.github.io/PyStringFn/
 --->
 
 # Alien Meteor Game
