@@ -1,5 +1,6 @@
+---
 # Alien and Meteor Game
-
+---
 ### Setup your environment
 
 To get started you will need to setup your environment for your project. This means that you will need to create a folder and proper sub-folders with specific naming in order for you your game to function properly with PgZero.
